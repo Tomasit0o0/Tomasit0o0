@@ -5,6 +5,8 @@
   Tomasito
   <br>
 </h1>
+
+<h4 align='center'>Si no es el corazòn, que nada te mueva. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Mañas Ru-fino</a>.</h4>
 ¡Hola! Soy Tomas 👋
 
 Soy un apasionado por la programación, el desarrollo de software y el análisis de datos. Me encanta construir herramientas que transforman conceptos matemáticos y datos crudos en soluciones visuales e interactivas.
