@@ -35,10 +35,14 @@ Soy un apasionado por la programación, el desarrollo de software y el análisis
 </p>
 <br>
 
-<h3 id="spotify-playing-">Spotify Playing 🎧</h3>
-<p>
+<h3 id="spotify-playing">Spotify Reproduciendo 🎧</h3>
+<p align="left">
   <a href="https://open.spotify.com/user/31qxglvbwzqx6t6emnazy66kc6ka">
-   <img src="https://spotify-now-playing-orpin-kappa.vercel.app/api/now-playing" alt="M.ùsica-Mañas Ru-fino" width="350" />
+    <img 
+      src="https://spotify-now-playing-orpin-kappa.vercel.app/api/now-playing" 
+      alt="M.úsica - Mañas Ru-fino, Doble Porcion, DeeJohend" 
+      width="350" 
+    />
   </a>
 </p>
 
