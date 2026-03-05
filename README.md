@@ -13,7 +13,20 @@ Soy un apasionado por la programación, el desarrollo de software y el análisis
 
 * 🎓 Actualmente enfocado en mi desarrollo académico en tecnología y ciencias de la computación.
 * 🚀 Construyendo motores de análisis y optimización.
-* 💻 Stack tecnológico: **Python, Streamlit, Pandas, SymPy, Git, Linux**.
+* 💻 Stack tecnológico:
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 * 📫 Cómo contactarme: www.linkedin.com/in/tomas-cárdenas-blandón-21588a3ab
 
 ---
