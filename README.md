@@ -41,6 +41,7 @@ Soy un apasionado por la programación, el desarrollo de software y el análisis
   <a href="https://open.spotify.com/user/31qxglvbwzqx6t6emnazy66kc6ka">
     <img 
       src="https://spotify-now-playing-orpin-kappa.vercel.app/api/now-playing" 
+      alt='Tomasito'
       width="350" 
     />
   </a>
