@@ -38,11 +38,7 @@ Soy un apasionado por la programación, el desarrollo de software y el análisis
 
 <h3 id="spotify-playing">Spotify Reproduciendo 🎧</h3>
 <p align="left">
- <img 
-   src="https://spotify-now-playing-orpin-kappa.vercel.app/api/now-playing?refresh=now" 
-   alt="Spotify Playing" 
-   width="400" 
-  />
+ <img src="https://spotify-now-playing-orpin-kappa.vercel.app/api/now-playing?v=FINAL" width="400" />
 </p>
 
 ---
