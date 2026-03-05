@@ -1,4 +1,11 @@
-### ¡Hola! Soy Tomás 👋
+<h1 align='center'>
+  <br>
+  <a href='https://open.spotify.com/intl-es/track/6ZC6s3mxAowWvCjSlow1Vo'><img src='https://i.ibb.co/q3V2CFLz/Dise-o-sin-t-tulo-1.png' alt='Tomasito' width='1080'></a>
+  <br>
+  Tomasito
+  <br>
+</h1>
+¡Hola! Soy Tomas 👋
 
 Soy un apasionado por la programación, el desarrollo de software y el análisis de datos. Me encanta construir herramientas que transforman conceptos matemáticos y datos crudos en soluciones visuales e interactivas.
 
