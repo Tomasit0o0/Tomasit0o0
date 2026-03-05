@@ -5,7 +5,7 @@ Soy un apasionado por la programación, el desarrollo de software y el análisis
 * 🎓 Actualmente enfocado en mi desarrollo académico en tecnología y ciencias de la computación.
 * 🚀 Construyendo motores de análisis y optimización.
 * 💻 Stack tecnológico: **Python, Streamlit, Pandas, SymPy, Git, Linux**.
-* 📫 Cómo contactarme: [Tu correo o enlace a LinkedIn]
+* 📫 Cómo contactarme: [www.linkedin.com/in/tomas-cárdenas-blandón-21588a3ab]
 
 ---
 📊 **Mis Estadísticas de GitHub:**
